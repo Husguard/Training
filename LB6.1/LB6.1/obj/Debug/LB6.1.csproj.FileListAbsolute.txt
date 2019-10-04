@@ -1,0 +1,9 @@
+c:\users\max\documents\visual studio 2015\Projects\LB6.1\LB6.1\bin\Debug\LB6.1.exe.config
+c:\users\max\documents\visual studio 2015\Projects\LB6.1\LB6.1\bin\Debug\LB6.1.exe
+c:\users\max\documents\visual studio 2015\Projects\LB6.1\LB6.1\bin\Debug\LB6.1.pdb
+c:\users\max\documents\visual studio 2015\Projects\LB6.1\LB6.1\obj\Debug\LB6.1.csprojResolveAssemblyReference.cache
+c:\users\max\documents\visual studio 2015\Projects\LB6.1\LB6.1\obj\Debug\LB6._1.Form1.resources
+c:\users\max\documents\visual studio 2015\Projects\LB6.1\LB6.1\obj\Debug\LB6._1.Properties.Resources.resources
+c:\users\max\documents\visual studio 2015\Projects\LB6.1\LB6.1\obj\Debug\LB6.1.csproj.GenerateResource.Cache
+c:\users\max\documents\visual studio 2015\Projects\LB6.1\LB6.1\obj\Debug\LB6.1.exe
+c:\users\max\documents\visual studio 2015\Projects\LB6.1\LB6.1\obj\Debug\LB6.1.pdb

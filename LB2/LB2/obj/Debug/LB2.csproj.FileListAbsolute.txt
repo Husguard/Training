@@ -1,0 +1,9 @@
+c:\users\max\documents\visual studio 2015\Projects\LB2\LB2\bin\Debug\LB2.exe.config
+c:\users\max\documents\visual studio 2015\Projects\LB2\LB2\bin\Debug\LB2.exe
+c:\users\max\documents\visual studio 2015\Projects\LB2\LB2\bin\Debug\LB2.pdb
+c:\users\max\documents\visual studio 2015\Projects\LB2\LB2\obj\Debug\LB2.csprojResolveAssemblyReference.cache
+c:\users\max\documents\visual studio 2015\Projects\LB2\LB2\obj\Debug\LB2.Form1.resources
+c:\users\max\documents\visual studio 2015\Projects\LB2\LB2\obj\Debug\LB2.Properties.Resources.resources
+c:\users\max\documents\visual studio 2015\Projects\LB2\LB2\obj\Debug\LB2.csproj.GenerateResource.Cache
+c:\users\max\documents\visual studio 2015\Projects\LB2\LB2\obj\Debug\LB2.exe
+c:\users\max\documents\visual studio 2015\Projects\LB2\LB2\obj\Debug\LB2.pdb

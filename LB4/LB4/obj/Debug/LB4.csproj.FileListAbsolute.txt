@@ -1,0 +1,9 @@
+c:\users\max\documents\visual studio 2015\Projects\LB4\LB4\bin\Debug\LB4.exe.config
+c:\users\max\documents\visual studio 2015\Projects\LB4\LB4\obj\Debug\LB4.csprojResolveAssemblyReference.cache
+c:\users\max\documents\visual studio 2015\Projects\LB4\LB4\obj\Debug\LB4.Form1.resources
+c:\users\max\documents\visual studio 2015\Projects\LB4\LB4\obj\Debug\LB4.Properties.Resources.resources
+c:\users\max\documents\visual studio 2015\Projects\LB4\LB4\obj\Debug\LB4.csproj.GenerateResource.Cache
+c:\users\max\documents\visual studio 2015\Projects\LB4\LB4\bin\Debug\LB4.exe
+c:\users\max\documents\visual studio 2015\Projects\LB4\LB4\bin\Debug\LB4.pdb
+c:\users\max\documents\visual studio 2015\Projects\LB4\LB4\obj\Debug\LB4.exe
+c:\users\max\documents\visual studio 2015\Projects\LB4\LB4\obj\Debug\LB4.pdb

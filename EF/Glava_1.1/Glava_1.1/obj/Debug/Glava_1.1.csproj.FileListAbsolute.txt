@@ -1,0 +1,12 @@
+C:\Users\Админ\source\repos\EF\Glava_1.1\Glava_1.1\bin\Debug\Glava_1.1.exe
+C:\Users\Админ\source\repos\EF\Glava_1.1\Glava_1.1\bin\Debug\Glava_1.1.pdb
+C:\Users\Админ\source\repos\EF\Glava_1.1\Glava_1.1\obj\Debug\Glava_1.1.csprojAssemblyReference.cache
+C:\Users\Админ\source\repos\EF\Glava_1.1\Glava_1.1\obj\Debug\Glava_1.1.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\EF\Glava_1.1\Glava_1.1\obj\Debug\Glava_1.1.exe
+C:\Users\Админ\source\repos\EF\Glava_1.1\Glava_1.1\obj\Debug\Glava_1.1.pdb
+C:\Users\Админ\source\repos\EF\Glava_1.1\Glava_1.1\bin\Debug\Glava_1.1.exe.config
+C:\Users\Админ\source\repos\EF\Glava_1.1\Glava_1.1\bin\Debug\EntityFramework.dll
+C:\Users\Админ\source\repos\EF\Glava_1.1\Glava_1.1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Админ\source\repos\EF\Glava_1.1\Glava_1.1\bin\Debug\EntityFramework.xml
+C:\Users\Админ\source\repos\EF\Glava_1.1\Glava_1.1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Админ\source\repos\EF\Glava_1.1\Glava_1.1\obj\Debug\Glava_1.1.csproj.CopyComplete

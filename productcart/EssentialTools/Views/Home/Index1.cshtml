@@ -1,0 +1,27 @@
+﻿@model EssentialTools.Models.ShoppingCart
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Значение</title>
+</head>
+<body>
+    @foreach (EssentialTools.Models.Product p in Model.Products)
+            {
+        <tr>
+            <td>@p.Name</td>
+            <td>$@p.Price</td>
+        </tr>
+    }
+ <!--   <tr><td>Model[0].Name</td></tr> -->
+    <div>
+        @Model.CalculateProductTotal()
+    </div>
+</body>
+</html>
+

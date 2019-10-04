@@ -1,0 +1,12 @@
+C:\Users\Админ\source\repos\EF\Glava2_DBFirst\Glava2_DBFirst\bin\Debug\Glava2_DBFirst.exe.config
+C:\Users\Админ\source\repos\EF\Glava2_DBFirst\Glava2_DBFirst\bin\Debug\Glava2_DBFirst.exe
+C:\Users\Админ\source\repos\EF\Glava2_DBFirst\Glava2_DBFirst\bin\Debug\Glava2_DBFirst.pdb
+C:\Users\Админ\source\repos\EF\Glava2_DBFirst\Glava2_DBFirst\bin\Debug\EntityFramework.dll
+C:\Users\Админ\source\repos\EF\Glava2_DBFirst\Glava2_DBFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Админ\source\repos\EF\Glava2_DBFirst\Glava2_DBFirst\bin\Debug\EntityFramework.xml
+C:\Users\Админ\source\repos\EF\Glava2_DBFirst\Glava2_DBFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Админ\source\repos\EF\Glava2_DBFirst\Glava2_DBFirst\obj\Debug\Glava2_DBFirst.csprojAssemblyReference.cache
+C:\Users\Админ\source\repos\EF\Glava2_DBFirst\Glava2_DBFirst\obj\Debug\Glava2_DBFirst.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\EF\Glava2_DBFirst\Glava2_DBFirst\obj\Debug\Glava2_DBFirst.csproj.CopyComplete
+C:\Users\Админ\source\repos\EF\Glava2_DBFirst\Glava2_DBFirst\obj\Debug\Glava2_DBFirst.exe
+C:\Users\Админ\source\repos\EF\Glava2_DBFirst\Glava2_DBFirst\obj\Debug\Glava2_DBFirst.pdb

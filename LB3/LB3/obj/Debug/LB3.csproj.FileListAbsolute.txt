@@ -1,0 +1,8 @@
+c:\users\max\documents\visual studio 2015\Projects\LB3\LB3\bin\Debug\LB3.exe.config
+c:\users\max\documents\visual studio 2015\Projects\LB3\LB3\bin\Debug\LB3.exe
+c:\users\max\documents\visual studio 2015\Projects\LB3\LB3\bin\Debug\LB3.pdb
+c:\users\max\documents\visual studio 2015\Projects\LB3\LB3\obj\Debug\LB3.csprojResolveAssemblyReference.cache
+c:\users\max\documents\visual studio 2015\Projects\LB3\LB3\obj\Debug\LB3.Properties.Resources.resources
+c:\users\max\documents\visual studio 2015\Projects\LB3\LB3\obj\Debug\LB3.csproj.GenerateResource.Cache
+c:\users\max\documents\visual studio 2015\Projects\LB3\LB3\obj\Debug\LB3.exe
+c:\users\max\documents\visual studio 2015\Projects\LB3\LB3\obj\Debug\LB3.pdb
